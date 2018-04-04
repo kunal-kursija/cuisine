@@ -1,0 +1,5 @@
+name: Cuisine
+description: 'Demonstrates #attached property of render arrays.'
+package: Cuisine
+type: module
+core: 8.x

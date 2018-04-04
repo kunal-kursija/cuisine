@@ -1,0 +1,7 @@
+cuisine.content:
+  path: '/cuisine'
+  defaults:
+    _controller: '\Drupal\cuisine\Controller\CuisineController::getCuisine'
+    _title: 'Cuisine'
+  requirements:
+    _permission: 'access content'

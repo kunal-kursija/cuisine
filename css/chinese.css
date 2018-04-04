@@ -1,0 +1,14 @@
+.cusine_container {
+  font-size: 2rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+}
+
+.cuisine {
+  text-transform: uppercase;
+  color: #00b0ff;
+}
+
+.chinese_items {
+  color: red;
+}

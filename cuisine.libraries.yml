@@ -1,0 +1,11 @@
+cuisine.chinese:
+  version: 1.0
+  js:
+    js/chinese.js: {}
+  css:
+    theme:
+      css/chinese.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings
